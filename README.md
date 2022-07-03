@@ -5,7 +5,7 @@
 A Kickstarter is currently being planned for a play and the head of the Kickstarter, Louise, wants to determine trends of other Kickstarters in order to decide on better decisions and knowledge of the most likely outcomes in this Kickstarter. A large set of data of other Kickstarters has already been compiled and was organized and adjusted that so that trends that would present themselves. Many other categories were in the data as well that needed to be filitered out as they have little connection to plays and would possible influence the data so it would become inaccurate.
 
 ## Analysis and Challenges
-
+![Parent Category Outcomes](/Resouces/Parent20%Category20%Outcomes.png)
 
 
 With this information, it is suggested that the Kickstarter should start in May or June where trends start to have the highest rate of successful campaigns. It is also good to know that Play subcategory has high rate of successful Kickstarted compared
@@ -26,7 +26,7 @@ A few challenges occured when organizing the data. As mentioned before, there wa
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-With this graph, it is suggested that the Kickstarter should start in May or June, where trends start to have the highest rate of successful campaigns reletive to other amount of failed campaigns. The other months of January to April and August to November have a similar ratio of successful outcomes to failed outcomes, but this ratio is not as desirable as the months of May to July. 
+With this graph, it is suggested that the Kickstarter should start in May or June, where trends start to have the highest rate of successful campaigns reletive to other amount of failed campaigns. The other months of January to April and August to November have a similar ratio of successful outcomes to failed outcomes, but this ratio is not as desirable as the months of May to July. This is easly shown as the number of failed campigns seems to remain fairly consistant through the year, a person would need to focus on the successful campigns to track the best lauch dates in this chart.
 
 The graph also suggests that it is very unlikly that the campaign will cancel, as all months there are less than 10 campigns that have canceled. Each month brought a number of campigns that either failed or succeeded many times more than the number of campeigns that have canceled. With this said, it is safe to say that canceling the campign is something not to take seriouly into account at the moment.   
 
